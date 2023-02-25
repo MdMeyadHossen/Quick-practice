@@ -1,4 +1,4 @@
-# Quick 1
-Quick 1
+# Quick practice
+Quick practice
 
 https://mdmeyadhossen.github.io/Quick/
